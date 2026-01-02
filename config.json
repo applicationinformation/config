@@ -1,0 +1,8 @@
+{
+  "Add Object  \nAdd Array  \nAdd Value  \nAdd from Text  \nRemove  \nShare  \nCopy To Clipboard": {
+    "button_link": "https://example.com",
+    "bg_color": "#FFFFFF",
+    "show_image": true,
+    "image_url": "https://example.com/image.png"
+  }
+}
